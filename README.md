@@ -16,13 +16,11 @@ composer install
 ```sh
 php artisan key:generate
 ```
-5. Create database and seeder data using command
+5.set .env DB_DATABASE = 'NAME'
+
+6. Create database and seeder data using command
 ```sh
 php artisan migrate --seed
-```
-6. Link storage to public folder using command
-```sh
-php artisan storage:link
 ```
 7. Run the project
 ```sh
