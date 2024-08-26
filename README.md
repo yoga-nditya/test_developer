@@ -26,3 +26,16 @@ php artisan migrate --seed
 ```sh
 php artisan serve
 ```
+
+Hasil :
+API Get Komisi ![ss test kerja 1](https://github.com/user-attachments/assets/461b43aa-1032-487d-a3db-3eb3126c3325)
+
+API Post Cicilan 
+![ss test kerja 2](https://github.com/user-attachments/assets/edaa69d0-b02d-4068-9f38-20e5af3a67f4)
+
+API Get Cicilan ![ss test kerja 3](https://github.com/user-attachments/assets/6fe63b43-51a2-4b2e-b0eb-e564657eed7e)
+
+
+
+
+
