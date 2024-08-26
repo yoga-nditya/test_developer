@@ -2,7 +2,7 @@ To run this project, follow the instructions below:
 
 1. Clone this repository
 ```sh
-git clone https://github.com/yohanes59/capstone-gits-kelompok-11.git
+https://github.com/yoga-nditya/test_developer
 ```
 2. create environment file
 ```sh
