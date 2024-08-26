@@ -16,7 +16,7 @@ composer install
 ```sh
 php artisan key:generate
 ```
-5.set .env DB_DATABASE = 'NAME'
+ 5.set .env DB_DATABASE = 'NAME'
 
 6. Create database and seeder data using command
 ```sh
